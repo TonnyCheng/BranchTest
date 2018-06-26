@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-brown is a dsb
-=======
-<<<<<<< HEAD
-brown is a sb
-
-commit
-=======
-brown is a dsb
->>>>>>> master
->>>>>>> dev
+tonny
