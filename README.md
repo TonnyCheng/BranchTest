@@ -5,8 +5,5 @@ test1
 dev: create branch and use it
 
 teset1
-<<<<<<< HEAD
-tonny dev
-=======
+tonny devsss
 teset2
->>>>>>> master
