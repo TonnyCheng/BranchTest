@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 brown is a sb
 
 commit
+=======
+brown is a dsb
+>>>>>>> master
